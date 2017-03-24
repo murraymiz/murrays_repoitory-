@@ -13,3 +13,6 @@ body  {
 color {
   color: black; 
 }
+#Madnessparagraph {
+  background: linear-gradient(to right, blue, yellow);
+}

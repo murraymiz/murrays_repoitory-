@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+#MLBlogo {
+    height: 300px;
+    width: 500px;
+    display:block
+}
+
+body {
+    background-color: black;
+}
+
+
+body {
+    color:blue;
+}
+#MLBgif {
+    height: 300px;
+    width: 500px;
+}
+
+#MLBparagraph {
+    font-family: 'Jim Nightshade', cursive;
+}
